@@ -1,7 +1,7 @@
 # 🛡️ Civiconnect
 
 
-**SafeGully** is a community-powered safety app where users can report and view unsafe locations, helping others make informed decisions while navigating cities. The goal is to promote safer streets by leveraging crowd-sourced data.
+**Civiconnect** is a community-powered safety app where users can report and view unsafe locations, helping others make informed decisions while navigating cities. The goal is to promote safer streets by leveraging crowd-sourced data.
 
 ---
 
