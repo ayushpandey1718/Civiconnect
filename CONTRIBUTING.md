@@ -85,5 +85,6 @@ Would you like me to generate a clean `CONTRIBUTING.md` file content for your re
 ```md
 ## 📋 Before You Start
 - Read the [README](README.md)
-- Check existing [Issues](https://github.com/YOUR_USERNAME/SafeGully/issues)
+- Check existing [Issues](https://github.com/YOUR_USERNAME/Civiconnect
+/issues)
 - Don’t forget to ⭐️ the repo if you like it!
